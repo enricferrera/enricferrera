@@ -1,5 +1,5 @@
 <!-- Menú de traduccions -->
-[🇬🇧 English](./README.md) • [🇪🇸 Español](./README.es.md) • [🇪🇸 Català](./README.ca.md)
+[🇬🇧 English](./README.md) • [🇪🇸 Español](./README.es.md) • [Català](./README.ca.md)
 
 # 👋 Hola! Sóc enricferrera!
 Benvingut al meu perfil!
