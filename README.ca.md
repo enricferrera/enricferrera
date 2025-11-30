@@ -1,7 +1,7 @@
 <!-- Menú de traduccions -->
 [🇬🇧 English](./README.md) • [🇪🇸 Español](./README.es.md) • [Català](./README.ca.md)
 
-# 👋 Hola! Sóc enricferrera!
+# 👋 Hola! Sóc Enric!
 Benvingut al meu perfil!
 
 ## 👨‍🎓 Sobre mí
