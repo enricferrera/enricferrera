@@ -5,8 +5,8 @@
 Bienvenido a mi perfil!
 
 ## 👨‍🎓 Sobre mí
-Curioso y con ganas de hacer las cosas bien. Actualmente estudio el cuarto curso de Ingeniería Informática.
+Soy alguien con mucha curiosidad por la tecnología, me encanta investigar nuevos tópicos i ideas relacionados con la tecnología. Tengo muchas ganas de conseguir experiencia, aplicar mi conocimiento en projectos reales i aprender nuevos conceptos.
 
-Estoy realizando la mención de Computación, lo que incluye algoritmia avanzada, gráficos, visión por computador, robótica y aprendizaje automático.
+Actualmente estudio el cuarto curso de Ingeniería Informática, estoy realizando la mención de Computación, lo que incluye algoritmia avanzada, gráficos, visión por computador, robótica y aprendizaje automático.
 
 ¡Gracias por visitar mi perfil!
